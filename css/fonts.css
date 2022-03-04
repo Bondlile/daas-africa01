@@ -1,0 +1,10 @@
+ @font-face {
+     font-family: 'monserrat';
+     src: url('./Montserrat limited/Montserrat-Light.ttf');
+     font-style: normal;
+ }
+ @font-face {
+     font-family: 'avenir-bold';
+     src: url('./Avenir Regular/AvenirNextLTPro-Bold.otf');
+     font-style: normal;
+ }
